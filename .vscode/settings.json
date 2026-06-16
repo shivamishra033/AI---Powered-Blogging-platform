@@ -1,0 +1,6 @@
+{
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.inlineSuggest.triggerCommandOnProviderChange": false,
+  "editor.snippetSuggestions": "inline",
+  "editor.inlineSuggest.suppressSuggestions": true
+}
