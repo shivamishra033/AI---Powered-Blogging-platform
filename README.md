@@ -226,6 +226,7 @@ Through this project, I gained hands-on experience with:
 **Shivam Mishra**
 
 MCA Graduate | Full-Stack Developer
+GitHub: https://github.com/shivamishra033
 
 ### Skills
 
@@ -235,6 +236,3 @@ MERN Stack • JavaScript • React.js • Node.js • Express.js • MongoDB �
 
 ---
 
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
