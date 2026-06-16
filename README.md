@@ -11,6 +11,9 @@ Readers can browse, search, and filter articles while interacting through a mode
 ---
 ## 📸 Screenshots
 
+The following screenshots showcase the key features and administrative workflows of the QuickBlog platform.
+
+
 ### Home Page
 ![Home Page](screenshots/home.png)
 
@@ -226,7 +229,9 @@ MCA Graduate | Full-Stack Developer
 
 ### Skills
 
-MERN Stack • JavaScript • React.js • Node.js • Express.js • MongoDB • Docker • Jenkins • AWS • Git • REST APIs
+### Skills
+
+MERN Stack • JavaScript • React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Git • REST APIs • JWT Authentication • Gemini API • ImageKit
 
 ---
 
