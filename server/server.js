@@ -10,7 +10,14 @@ const app = express();
 
  await connectDB()
 // Middlewarea
-app.use(cors())
+app.use(cors({
+  origin: [
+    "http://localhost:5173",
+    "https://ai-powered-blogging-platform-rouge.vercel.app"
+  ],
+  methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+  allowedHeaders: ["Content-Type", "Authorization"]
+}))
 app.use(express.json())
 //Routes
 app.get('/',(req,res)=> res.send("API is Working v2"))
