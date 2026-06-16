@@ -190,27 +190,6 @@ IMAGEKIT_URL_ENDPOINT=
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here after deployment:
-
-### Home Page
-
-![Home Page](screenshots/home.png)
-
-### Blog Details Page
-
-![Blog Details](screenshots/blog-details.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### Add Blog Page
-
-![Add Blog](screenshots/add-blog.png)
-
----
 
 ## 🎯 Learning Outcomes
 
