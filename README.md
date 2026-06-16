@@ -226,13 +226,10 @@ Through this project, I gained hands-on experience with:
 **Shivam Mishra**
 
 MCA Graduate | Full-Stack Developer
+
 GitHub: https://github.com/shivamishra033
 
-### Skills
 
-### Skills
-
-MERN Stack • JavaScript • React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Git • REST APIs • JWT Authentication • Gemini API • ImageKit
 
 ---
 
